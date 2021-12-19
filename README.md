@@ -1,5 +1,5 @@
 
-# Responsive Website
+# Responsive Company Website
 
 Coursera course: HTML, CSS, and Javascript for Web Developers
 
